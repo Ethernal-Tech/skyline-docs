@@ -32,4 +32,4 @@ Deposit and withdrawal dataflows operate similarly, so "source" and "destination
 
 Figure 3 provides a visual representation of the data flow described in the preceding text.
 
-Figure 3 - System Components Dataflow
+<figure><img src="../../.gitbook/assets/components-dataflow.png" alt=""><figcaption><p>Figure 3 - System Components Dataflow</p></figcaption></figure>

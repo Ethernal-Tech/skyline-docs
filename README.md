@@ -4,7 +4,7 @@ As blockchain technology rapidly matures, the vision of an interconnected decent
 
 The Skyline bridge (Figure 1) emerges precisely to address this critical challenge of blockchain interoperability, particularly targeting the communication between two prominent Unspent Transaction Output (UTXO) based blockchain platforms: Cardano and Apex Fusion's Apex Fusion. Both Cardano and Apex Fusion's Apex Fusion represent advanced UTXO-based blockchain ecosystems, boasting strong security guarantees, advanced cryptographic protocols, and innovative smart contract platforms. Yet, despite their technological advancements they remain largely isolated from one another due to the absence of a direct interoperability solution.
 
-Figure 1 - Global overview of Skyline
+<figure><img src=".gitbook/assets/skyline-overview.png" alt=""><figcaption><p>Figure 1 - Global overview of Skyline</p></figcaption></figure>
 
 Skyline resolves this critical challengelimitation by serving as a decentralized gateway between these two blockchains, effectively enabling the seamless exchange of native assets: ADA from Cardano and Apex from Apex Fusion. Skyline securely locks native tokens on the originating blockchain and simultaneously unlocks their wrapped equivalents (WADA and WApex) on the destination blockchain. This solution elegantly combines security, decentralization, and usability, aligning with blockchain's fundamental principles of transparency.
 

@@ -2,7 +2,7 @@
 
 Figure 2 illustrates the primary architectural components of the Skyline system.
 
-Figure 2 - Main Skyline Components
+<figure><img src="../../.gitbook/assets/skyline-components.png" alt=""><figcaption><p>Figure 2 - Main Skyline Components</p></figcaption></figure>
 
 ### Oracle
 
