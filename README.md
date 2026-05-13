@@ -13,7 +13,7 @@ Yet, despite technological advancements of previously mentioned chains, they rem
 
 Skyline solves this critical challenge by serving as a decentralized gateway between these blockchains, effectively enabling the seamless exchange of native assets(Figure 2). Depending on the asset and chain mechanics, Skyline locks or burns native tokens on the origin chain through a verifiable process, and then unlocks or mints the appropriate tokens on the destination chain. This mechanism ensures secure cross-chain transfers while preserving transparency and decentralization.
 
-figure><img src=".gitbook/assets/bridgable-token-list.png" alt=""><figcaption><p>Figure 2 - Bridgable token list</p></figcaption></figure>
+<figure><img src=".gitbook/assets/bridgable-token-list.png" alt=""><figcaption><p>Figure 2 - Bridgable token list</p></figcaption></figure>
 
 Skyline is designed to operate without reliance on any centralized authority, ensuring resilience and censorship resistance based on elliptic-curve signatures. Its decentralized validation system utilizes multisignature UTXOs, one of the strongest cryptographic primitives inherent to both Cardano and Apex Fusion platforms, and elliptic-curve signatures on EVM-compatible networks, together with smart-contract-level verification.To boost user experience, Skyline provides an automated refund mechanism for possible transaction failures, as well as a robust liquidity management system.
 Skyline is designed with user convenience in mind, offering an intuitive and approachable user interface to improve the end-user experience.
