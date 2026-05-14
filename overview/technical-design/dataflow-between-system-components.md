@@ -1,6 +1,6 @@
 # Dataflow between System Components
 
-Deposit and withdrawal dataflows operate similarly, so "source" and "destination" are used as terms to describe Apex Fusion and Cardano sides:
+Deposit and withdrawal dataflows operate similarly, so "source" and "destination" are used in this example to describe the bridging process between two UTXO chains:
 
 1. **Bridging initiation**
 
@@ -12,7 +12,7 @@ Deposit and withdrawal dataflows operate similarly, so "source" and "destination
 
 3. **Bridging transactions witnessing**
 
-* Each Oracle submits the transaction (a "claim") to the Skyline's blockchain to confirm that it has observed the bridging request.
+* Each Oracle submits the transaction (a "claim") to Skyline's blockchain to confirm that it has observed the bridging request.
 
 4. **Bridging transactions confirmation**
 
@@ -30,6 +30,6 @@ Deposit and withdrawal dataflows operate similarly, so "source" and "destination
 
 * The Batch transaction gets submitted to the destination blockchain by a Relayer. The bridging funds are unlocked from the bridge-controlled multisig address on the destination chain and transferred to the destination addresses.
 
-Figure 3 provides a visual representation of the data flow described in the preceding text.
+Figure 4 provides a visual representation of the data flow described in the preceding text.
 
-<figure><img src="../../.gitbook/assets/components-dataflow.png" alt=""><figcaption><p>Figure 3 - System Components Dataflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/components-dataflow.png" alt=""><figcaption><p>Figure 4 - System Components Dataflow</p></figcaption></figure>
