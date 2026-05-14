@@ -42,4 +42,4 @@ Skyline Smart Contracts are being executed on Skyline blockchain and represent a
 
 Figure 3 illustrates the main components of the Skyline Bridge
 
-<figure><img src=".gitbook/assets/skyline-components.png" alt=""><figcaption><p>Figure 3 - Skyline Bridge main components</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/skyline-components.png" alt=""><figcaption><p>Figure 3 - Skyline Bridge main components</p></figcaption></figure>
