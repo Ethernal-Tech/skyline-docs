@@ -8,6 +8,7 @@
 * [Technical Design](overview/technical-design/README.md)
   * [Components](overview/technical-design/components.md)
   * [Dataflow between System Components](overview/technical-design/dataflow-between-system-components.md)
+* [Technology Stack](overview/technology-stack.md)
 * [Security and Decentralization](overview/security-and-decentralization.md)
 * [Key Takeaways](overview/key-takeaways.md)
 
