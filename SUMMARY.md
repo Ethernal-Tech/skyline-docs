@@ -10,6 +10,7 @@
   * [Dataflow between System Components](overview/technical-design/dataflow-between-system-components.md)
 * [Technology Stack](overview/technology-stack.md)
 * [Security and Decentralization](overview/security-and-decentralization.md)
+* [Scalability & Performance](overview/scalability-and-performance.md)
 * [Key Takeaways](overview/key-takeaways.md)
 
 ## Oracle API
