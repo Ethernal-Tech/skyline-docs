@@ -25,5 +25,4 @@ Growth along the three available axes costs very different amounts of work, and 
 * New tokens are configuration plus a transaction
 * New chains of an existing type are just configuration
 * New chain types are a vertical slice through every layer
-* Validator set changes are the most expensive
 
